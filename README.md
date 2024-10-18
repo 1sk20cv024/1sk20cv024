@@ -29,37 +29,7 @@ Expressions, Json, Pickle, Decorators, Iterators, Multithreading.
 • MACHINE LEARNING(ML)-Basic knowledge. 
 • POWER BI- Data analysis, data visualization, data modelling and report creation.
 • TOOLS- Visual Studio Code, Notepad++, Google-Colab.
-• SOFT SKILLS- Adaptability, Creativity, Problem-Solving, Time Management, Team Worker, Leadership. 
-Projects 
-ANALYSIS AND DESIGN OF G+3 HOSTEL BUILDING USING STAAD.PRO [Major Project]: 
-• STAAD.Pro is a software that can be used to analyze and design a multistoreyed building. It is a popular 
-choice among civil engineers for structural analysis and design.
-• Tech stacks: STAAD.Pro
-HR ATTRITION [Minor Project]: 
-• Provides insights into employee attrition trends and factors that contribute to employee turnover. 
-• Tech stacks: Power BI. 
-ADIDAS US SALES PROJECT[Minor Project]:
-• An Adidas US sales project using power BI can help analyze sales data to gain insights and make strategic 
-decisions.
-• Tech stacks: Power BI. 
-SALES SUPER STORE[Minor Project]:
-• A sales superstore project using power BI is a data visualization project that analyses a fictional superstore’s 
-sales data to provide insights into sales performance and trends.
-• Tech stacks: Advance Excel. 
-Data Analysis Projects:
- Student Result Analysis:
-• Designed and developed a comprehensive student result analysis system to evaluate academic performance. 
-• Implemented data cleaning and preprocessing techniques to ensure the accuracy and reliability of student data. 
-• Utilized data analytics techniques to analyse student grades and performance metrics across various Fields. 
-Sales Data Analysis: 
-• Designed and developed a comprehensive sales data analysis system to track and evaluate sales performance. 
-• Implemented data cleaning, transformation, and normalization processes to ensure high-quality data. 
-• Used libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization. 
-Certificates And Learning:
-• Pyspider Training Institute –Python Full Stack Development. 
-DECLARATION:
-I hereby declare that the details and information stated above are true, correct, and complete to the best of my belief 
-and knowledge. 
+• SOFT SKILLS- Adaptability, Creativity, Problem-Solving, Time Management, Team Worker, Leadership.
 Github: Your Repositories (github.com)
 Place: Bengaluru Shravana S C
 
